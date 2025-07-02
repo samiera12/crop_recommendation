@@ -9,7 +9,7 @@ This project predicts the most suitable crop to grow based on soil and weather c
 - Takes input from user via command line
 - Predicts crop using a trained Random Forest Classifier
 - Easy to run without any GUI or web deployment
-- Works on low-end machines (including 8GB laptops)
+- Works on low-end machines
 
 ---
 
@@ -68,13 +68,13 @@ crop-recommendation-cli/
 ```
 
 ## Sample Input and Output
-Nitrogen (N): 90
-Phosphorus (P): 42
-Potassium (K): 43
-Temperature (°C): 25
-Humidity (%): 80
-pH: 6.5
-Rainfall (mm): 120
+-Nitrogen (N): 90
+-Phosphorus (P): 42
+-Potassium (K): 43
+-Temperature (°C): 25
+-Humidity (%): 80
+-pH: 6.5
+-Rainfall (mm): 120
 
-Output : rice
+-Output : rice
 
